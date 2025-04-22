@@ -35,7 +35,7 @@ Projeto colaborativo desenvolvido em sala de aula, focado na implementação de 
 
 ## Contato
 
-- **LinkedIn**: [Gustavo Henrique Martins]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gustavo-henrique-martins-8a398b1b5/))
+- **LinkedIn**: [Gustavo Henrique Martins](https://www.linkedin.com/in/gustavo-henrique-martins-8a398b1b5/)
 
 ---
 
