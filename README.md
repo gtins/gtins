@@ -24,7 +24,7 @@ Atualmente, estou cursando Engenharia de Software e tenho me dedicado ao desenvo
 
 ## Projetos em Destaque
 
-### [softwareTesting3](https://github.com/gtins/softwareTesting3)
+### [software-testing-3](https://github.com/gtins/softwareTesting3)
 Repositório final da disciplina de Testes de Software, implementando testes unitários avançados em C#, incluindo cenários com exceções, mensagens personalizadas e uso de bibliotecas como Faker.
 ### [api-products](https://github.com/gtins/api-products)
 Projeto de estudo feito em sala focado em desenvolver uma api do zero utilizando node, express e afins.
